@@ -1,6 +1,7 @@
 # CartPole AI - Reinforcement Learning
 
-![](marioRL/docs/intro.png)
+<img src="https://github.com/harikris001/Cartpole-AI/blob/master/docs/intro.png" width="850" height="362" />
+
 
 Hey, This is a project of RL on the Cartpole Problem. The cartpole Environment is already present in the Gym package and i have tried to solve it through RL <br>
 
@@ -48,7 +49,7 @@ Run you Cells and wait
 ## Output 
 The model completed its training in 20k steps,<br>
 here is the results:<br>
-|OUTPUT           |![](docs/random_agent.gif)|![](docs/cartpole.gif)|
+|OUTPUT           |<img src="https://github.com/harikris001/Cartpole-AI/blob/master/docs/random_agent.gif" width="300" height="200" />|<img src="https://github.com/harikris001/Cartpole-AI/blob/master/docs/cartpole.gif" width="300" height="200" />|
 |-----------------|------|------|
 |Sl.NO            |1     |2     |
 |Total Steps      |0steps|20K   |
